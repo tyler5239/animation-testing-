@@ -1,2 +1,26 @@
-<h1 class="fade-in">Welcome to My Website</h1>
-<p class="fade-in">This is my content.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Animated Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <nav class="navbar">
+    <h1>Tyler</h1>
+  </nav>
+
+  <section class="hero fade-in">
+    <h2>Welcome to My Site</h2>
+    <p>I build modern websites with HTML, CSS, and animations.</p>
+  </section>
+
+  <section class="card slide-in">
+    <h2>Projects</h2>
+    <p>Coming soon...</p>
+  </section>
+
+</body>
+</html>
